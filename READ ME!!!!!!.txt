@@ -1,0 +1,29 @@
+Version 1.0
+
+This is a script port of Pokémon Super Mystery Dungeon onto a TI-89 Graphing Calculator.
+This was made over the course of a year with many things to offer!
+
+Features:
+The entire main story of Pokémon Super Mystery Dungeon (main story only, no postgame)
+723 Pokémon
+645 moves
+All main story dungeons from Open Pass to the Tree of Life.
+A shop with POKé and Gild Bars.
+A bunch of items.
+A recruitment system like BRT, Explorers, and Gates. (NO CONNECTION ORB! HOORAY!)
+A job system like BRT, Explorers, and Gates.
+Lots and lots of bugs.
+
+How to install (Normal Calculator):
+Obtain a TI-89 Titanium calculator. (May work for the normal TI-89 but I’d use the Titanium)
+Download TI-Connect.
+Obtain a USB-Mini Transfer Cable.
+Backup your calculator using the backup function.
+Purge your calculator’s memory.
+Restore the backup provided in the GitHub.
+Hit: Green Star + 1 to start the game!
+
+How to install (TIEmu):
+Coming soon!
+
+Known bugs:
