@@ -1,5 +1,7 @@
 Version 1.0
 
+I do have a Discord for more updates on my shenanagins. DM me @fire_man317 on Discord for the server if you are interested!
+
 This is a script port of Pokémon Super Mystery Dungeon onto a TI-89 Graphing Calculator.
 This was made over the course of a year with many things to offer!
 
